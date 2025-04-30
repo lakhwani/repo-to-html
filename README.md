@@ -1,4 +1,4 @@
-# Convert Repository to HTML
+# Convert Repository to HTML/PDF
 A lightweight Python script (<350 lines) that converts your repository contents to a single, well-formatted HTML document. I often use it for LLMs. 
 
 ## Why I use it?
